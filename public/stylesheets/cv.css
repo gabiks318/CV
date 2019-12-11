@@ -1,0 +1,116 @@
+body{
+    background-color: #07070A;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.profile-pic{
+    border-radius: 15%;
+    height: auto;
+    width:70%;
+}
+
+#stripe{
+    background-color: #FCFCFC;
+    height: 46px;
+    color: #07070A;
+}
+
+.navbar-collapse{
+    background-color: #FCFCFC;
+    width: 100%;
+}
+h1{
+    color: #FCFCFC;
+}
+
+h2{
+    color: #FCFCFC;
+}
+
+p{
+    color: #50D8D7;
+}
+
+button{
+    border:none;
+    height: 100%;
+    background: none;
+}
+
+li{
+    color: #FCFCFC;
+}
+
+#github{
+    color: #FCFCFC ;
+    transition: all 0.3s;
+}
+
+a:hover{
+    color: #50D8D7 ;
+    text-decoration: none;
+}
+.icon{
+    color: #50D8D7;
+}
+
+#contact-info{
+    list-style: none;
+}
+
+.lan-list-item{
+    margin:4px 0;
+    font-size: 1rem;
+}
+
+.contact-info{
+    margin: 4px 0;
+}
+
+.contact-icon{
+ font-size: 18px;  
+}
+
+.stripe-btn{
+    color: #07070A;
+    font-weight: 400;
+    transition: all 0.3s;
+}
+.stripe-btn-selected{
+    color: #50D8D7 ;
+}
+
+.stripe-btn:hover{
+    color: #50D8D7 ;
+}
+.btn{
+    background-color: #24272B ;
+    color: #50D8D7 ;
+    transition: all 0.3s;
+    height: 3rem;
+}
+
+.btn-selected{
+    background-color: #FCFCFC ;
+    color: #07070A ;
+}
+
+.btn:hover{
+    background-color: #FCFCFC ;
+    color: #07070A ;
+}
+
+.btn:focus, .btn:active, .btn:visited ,.btn-sm:focus, .btn-sm:active, .btn-sm:visited{
+    outline: 0 !important;
+}
+button:focus{
+    outline: 0 !important;
+}
+
+h3{
+    text-decoration: underline;
+    color: #E6352D ;
+    font-size: 1rem;
+    font-weight: 400;
+}
